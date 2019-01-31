@@ -19,8 +19,8 @@ https://www.mathworks.com/matlabcentral/fileexchange/38964-example-matlab-class-
 
 ## Usage
 1) Download or clone this repository to a folder.
-2) Run "compile_priority_queue.m"
-3) Run "run_me.m"
+2) Run "run_me.m"
+3) Star this repository if you found this useful
 
 
 ## Some tips
