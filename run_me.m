@@ -6,7 +6,7 @@
 
 %% Compile MEX code
 run compile_priority_queue.m
-
+run run_tests
 %% Usage
 % Instantiate priority queue
 pq = PriorityQueue();

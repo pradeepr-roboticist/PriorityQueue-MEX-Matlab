@@ -4,6 +4,8 @@
 % Last Modified Date: 29.01.2019
 % Last Modified By  : Pradeep Rajendran <pradeepunique1989@gmail.com>
 
+clear all;
+
 pq = PriorityQueue();
 
 num_nodes = 1000;
@@ -28,5 +30,5 @@ while pq.size() > 0
     pq.pop();
     priority_vals(top_id_expected) = [];
 end
-
+clear all;
 
