@@ -31,9 +31,9 @@ https://www.mathworks.com/matlabcentral/fileexchange/38964-example-matlab-class-
 
 **Pradeep Rajendran**
 
-* [github/pradeepr-roboticist](https://github.com/pradeepunique1989)
+* [github/pradeepr-roboticist](https://github.com/pradeepr-roboticist)
 
 ## License
 
-Copyright © 2019 [Pradeep Rajendran](https://github.com/pradeepunique1989)
-Released under the [GNU General Public License](https://github.com/pradeepunique1989/PriorityQueue-MEX-Matlab/blob/master/LICENSE).
+Copyright © 2019 [Pradeep Rajendran](https://github.com/pradeepr-roboticist)
+Released under the [GNU General Public License](https://github.com/pradeepr-roboticist/PriorityQueue-MEX-Matlab/blob/master/LICENSE).
