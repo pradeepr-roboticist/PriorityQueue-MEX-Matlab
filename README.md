@@ -31,7 +31,7 @@ https://www.mathworks.com/matlabcentral/fileexchange/38964-example-matlab-class-
 
 **Pradeep Rajendran**
 
-* [github/pradeepunique1989](https://github.com/pradeepunique1989)
+* [github/pradeepr-roboticist](https://github.com/pradeepunique1989)
 
 ## License
 
